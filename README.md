@@ -1,4 +1,4 @@
-### Hey, Welcome to my Github homepage. 
+### Hey! Welcome to my Github homepage. 
 
 I am Vincent, a college student studying CS. 
 
