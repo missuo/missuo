@@ -10,8 +10,8 @@ Currently in Shanghai, if you have common interests, you can communicate with ea
 
 ### Contact me:
 
-- Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://oneyyt.cn)
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:i@yyt.moe)
+- Personal website: [![website](https://img.shields.io/badge/https://oneyyt.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://oneyyt.cn)
+- Email: [![Email](https://img.shields.io/badge/i@yyt.moe-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:i@yyt.moe)
 
 ### My GitHub Stats
 
