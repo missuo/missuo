@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/missuo"><img align='right' src="https://github-readme-stats.vercel.app/api?username=missuo&show_icons=true"></a>
 
-### Hi there👋 I'm Vincent :snowflake:
+### Hi there. I'm Vincent.
 <!--
 [![Blog](https://img.shields.io/badge/blog.winterchen-%20-yellow?logo=bloglovin)](https://blog.winterchen.com)
 [![Photos](https://img.shields.io/badge/%20Photography-%20-blue?logo=pivotal-tracker)](https://photo.winterchen.com)
