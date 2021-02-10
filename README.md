@@ -12,18 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://github.com/missuo"><img align='right' src="https://github-readme-stats.vercel.app/api?username=missuo&show_icons=true"></a>
-
 ### Welcome to my Github homepage. 
 I am Vincent, a college student studying CS.
-<br>
+<br><br>
 I am 20 years old this year, a Libra boy.
-<br>
+<br><br>
 Like to delve into global routing, server virtualization technology and network security.
-<br>
+<br><br>
 Currently in Shanghai, if you have common interests, you can communicate with each other.
-<br>
+<br><br>
+<a href="https://github.com/missuo"><img align='right' src="https://github-readme-stats.vercel.app/api?username=missuo&show_icons=true"></a>
 <!--
 [![Blog](https://img.shields.io/badge/blog.winterchen-%20-yellow?logo=bloglovin)](https://blog.winterchen.com)
 [![Photos](https://img.shields.io/badge/%20Photography-%20-blue?logo=pivotal-tracker)](https://photo.winterchen.com)
