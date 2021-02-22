@@ -15,4 +15,4 @@ Like to delve into global routing, server virtualization technology and network 
 
 ![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=missuo&show_icons=true)
 
-⭐️ From [missuo](https://github.com/missuo)
+Powered by [missuo](https://github.com/missuo)
