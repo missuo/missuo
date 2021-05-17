@@ -1,6 +1,6 @@
 Hi, I am Vincent. 
 
-A Libra boy, a college student studying CS in Shanghai.
+A Libra boy, a college student studying Computer Science in Shanghai.
 
 Like to delve into global routing, server virtualization technology and network security. 
 
