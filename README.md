@@ -1,8 +1,6 @@
-### Hey! Welcome to my Github homepage. 
+Hi, I am Vincent. 
 
-I am Vincent, a college student studying CS in Shanghai. 
-
-I am 20 years old this year, a Libra boy. 
+A Libra boy, a college student studying CS in Shanghai.
 
 Like to delve into global routing, server virtualization technology and network security. 
 
