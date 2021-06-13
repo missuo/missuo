@@ -6,6 +6,6 @@ Like to delve into global routing, server virtualization technology and network 
 
 ### My GitHub Stats
 
-![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=missuo&show_icons=true)![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missuo&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp)
+![Stats](https://github-readme-stats.vercel.app/api?username=missuo&include_all_commits=true&hide_border=true&theme=graywhite) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missuo&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp)
 
 Powered by [missuo](https://github.com/missuo)
