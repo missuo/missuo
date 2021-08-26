@@ -1,6 +1,6 @@
-## Hi, I am Vincent. 
+### Hi, I am Vincent. 
 
-A Libra boy, a college student studying Computer Science in Shanghai.
+:man_technologist: A Libra boy, a college student studying Computer Science in Shanghai.
 
 ![](https://profile-counter.glitch.me/missuo/count.svg)
 
