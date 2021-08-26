@@ -10,7 +10,7 @@
 
 -  **Learning :** Full-Stack Development 
 -  **Languages :** PHP, JavaScript, Python, Shell
--  **Hobbies :** Basketball :basketball: 、Running :running: & Travel :airplane: 
+-  **Hobbies :** Basketball :basketball:、Running :running: & Travel :airplane: 
 -  **Research :** Virtualization Technology & Routing Exploration
 -  **Contact me :** [missuo](https://t.me/missuo)
 
