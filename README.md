@@ -4,7 +4,7 @@
 
 ![](https://profile-counter.glitch.me/missuo/count.svg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=missuo&include_all_commits=true&hide_border=true&theme=graywhite)
+![Stats](https://github-readme-stats.vercel.app/api?username=missuo&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 **About**
 
