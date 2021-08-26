@@ -23,7 +23,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
- 
- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missuo&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=JD)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missuo&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=JD)
 
 <em><b>I hope to meet a lot of interesting people here and we can learn from each other.</b></em>
