@@ -1,8 +1,8 @@
-### Hi there! 👋
-
-Hi, I'm Vincent Young, a college student studying CS in Shanghai.
+### Hi, I'm Vincent! 😃
 
 ![](https://profile-counter.glitch.me/missuo/count.svg)
+
+Hi, I'm Vincent Young, a college student studying CS in Shanghai, China.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=missuo&count_private=true&show_icons=true&theme=material-palenight&include_all_commits=true)
 
