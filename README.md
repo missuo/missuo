@@ -1,4 +1,4 @@
-### Hi there, I'm [Vincent](https://oneyyt.cn)! 👋
+### Hi there! 👋
 
 Hi, I'm Vincent Young, college student studying Computer Science in Shanghai.
 
