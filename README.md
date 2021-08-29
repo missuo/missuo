@@ -1,6 +1,6 @@
-### Hi, I am Vincent. 
+### Hi there, I'm [Vincent!](https://oneyyt.cn) 👋
 
-:man_technologist: Libra boy, a college student studying Computer Science in Shanghai.
+Hi, I'm Vincent Young, college student studying Computer Science in Shanghai.
 
 ![](https://profile-counter.glitch.me/missuo/count.svg)
 
