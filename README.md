@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Hi, I'm Vincent Young, college student studying Computer Science in Shanghai.
+Hi, I'm Vincent Young, a college student studying CS in Shanghai.
 
 ![](https://profile-counter.glitch.me/missuo/count.svg)
 
