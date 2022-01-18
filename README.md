@@ -24,7 +24,7 @@ Hi, I'm Vincent Young, a college student studying CS in Shanghai, China.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missuo&&show_icons=true&hide_border=true&theme=material-palenight&layout=compact&langs_count=8&exclude_repo=JD)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missuo&&show_icons=true&hide_border=true&theme=material-palenight&layout=compact&langs_count=6&exclude_repo=JD)
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=missuo&layout=compact&theme=material-palenight&hide_border=true)
 
 <em><b>I hope to meet a lot of interesting people here and we can learn from each other.</b></em>
