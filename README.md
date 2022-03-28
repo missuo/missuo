@@ -2,7 +2,7 @@
 
 ![](https://profile-counter.glitch.me/missuo/count.svg)
 
-Hi, I'm Vincent Young, a college student studying CS in Shanghai, China.
+Hi, I'm Vincent Young, [AS206729](https://bgp.he.net/AS206729) Owner, a college student studying CS in Shanghai, China.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=missuo&count_private=true&show_icons=true&theme=material-palenight&include_all_commits=true)
 
