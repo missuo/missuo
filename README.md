@@ -6,7 +6,7 @@
 
 **AS206729 Prefixes v6** 
 
-`2401:95c0:f001::/48`
+`2401:95c0:f001::/48` [Support Netflix Unlock]
 
 **AS206729 Peers v6**
 |  Rank   | Description  | IPv6 | Peer|
