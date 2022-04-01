@@ -8,7 +8,7 @@
 
 `2401:95c0:f001::/48`
 
-**AS206729 Peer v6**
+**AS206729 Peers v6**
 |  Rank   | Description  | IPV6 | Peer|
 |  ----  | ----  | ---- | ---- |
 | 1  | FranTech Solutions | 2401:95c0:f001::1/128 | AS53667|
