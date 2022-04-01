@@ -2,7 +2,17 @@
 
 ![](https://profile-counter.glitch.me/missuo/count.svg)
 
-Hi, I'm Vincent Young, [AS206729](https://bgp.he.net/AS206729) owner, a college student studying CS in Shanghai, China.
+> Hi, I'm Vincent Young, [AS206729](https://bgp.he.net/AS206729) owner, a college student studying CS in Shanghai, China.
+
+**AS206729 Prefixes v6
+`2401:95c0:f001::/48`
+
+**AS206729 Peer v6**
+|  Rank   | Description  | IPV4 | Peer|
+|  ----  | ----  | ---- | ---- |
+| 1  | FranTech Solutions | | AS53667|
+
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=missuo&count_private=true&show_icons=true&theme=material-palenight&include_all_commits=true)
 
