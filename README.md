@@ -5,12 +5,13 @@
 > Hi, I'm Vincent Young, [AS206729](https://bgp.he.net/AS206729) owner, a college student studying CS in Shanghai, China.
 
 **AS206729 Prefixes v6** 
+
 `2401:95c0:f001::/48`
 
 **AS206729 Peer v6**
-|  Rank   | Description  | IPV4 | Peer|
+|  Rank   | Description  | IPV6 | Peer|
 |  ----  | ----  | ---- | ---- |
-| 1  | FranTech Solutions | | AS53667|
+| 1  | FranTech Solutions | 2401:95c0:f001::1/128 | AS53667|
 
 
 
