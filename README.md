@@ -15,7 +15,7 @@
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=missuo&count_private=true&show_icons=true&theme=material-palenight&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=missuo&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
 
 **About**
 
@@ -35,7 +35,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missuo&&show_icons=true&hide_border=true&theme=material-palenight&langs_count=8&exclude_repo=JD)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=missuo&layout=compact&theme=material-palenight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missuo&&show_icons=true&hide_border=true&theme=github_dark&langs_count=8&exclude_repo=JD)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=missuo&layout=compact&theme=github_dark&hide_border=true)
 
 <em><b>I hope to meet a lot of interesting people here and we can learn from each other.</b></em>
