@@ -2,6 +2,9 @@
 
 Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 
+
+</details>
+<summary><b>🌍 Autonomous System Number</b></summary>
 **AS206729 Prefixes v6** 
 
 `2401:95c0:f001::/48` 
@@ -11,6 +14,7 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 |  ----  | ----  | ---- | ---- |
 | 1  | FranTech Solutions | 2401:95c0:f001::1/128 | AS53667|
 
+</details>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=missuo&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
