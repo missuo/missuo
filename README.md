@@ -36,7 +36,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p2rzki916ovulg0dgsrw7q96f&cover_image=false&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-![my-blog](https://pagespeed-insights.herokuapp.com?url=https://missuo.me)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missuo&&show_icons=true&hide_border=true&theme=github_dark&langs_count=8&exclude_repo=JD)
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=missuo&layout=compact&theme=github_dark&hide_border=true)
