@@ -23,8 +23,11 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
   <a href="https://www.tiktok.com/@m1ssuo"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
+## Stats
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=missuo&theme=vue)
+
 ## Spotify Recently Played
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=p2rzki916ovulg0dgsrw7q96f)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=p2rzki916ovulg0dgsrw7q96f)
 
 
 
