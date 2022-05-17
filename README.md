@@ -8,15 +8,9 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
   </a>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=missuo&count_private=true&show_icons=true&theme=github_light&include_all_commits=true)
-
-
-**About Me**
 -  **Learning :** Full-Stack Development 
 -  **Languages :** PHP, JavaScript, Python, Shell
 -  **Hobbies :** Basketball :basketball:、Running :running: & Travel :airplane: 
--  **Research :** Virtualization Technology & Routing Exploration
--  **Contact me :** [missuo](https://t.me/missuo)
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p2rzki916ovulg0dgsrw7q96f&cover_image=false&theme=default&bar_color_cover=false&hide_border=true)](https://github.com/kittinan/spotify-github-profile)
