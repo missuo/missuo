@@ -5,8 +5,9 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 
 <details>
 <summary><b>Autonomous System Number</b></summary>
+
   
-<b>AS206729 Prefixes v6</b>
+**AS206729 Prefixes v6**
 
 `2401:95c0:f001::/48` 
 
