@@ -5,8 +5,7 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 
 <details>
 <summary><b>Autonomous System Number</b></summary>
-<br><br>
-  
+<br>
 **AS206729 Prefixes v6**
 
 `2401:95c0:f001::/48` 
@@ -22,13 +21,15 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=missuo&count_private=true&show_icons=true&theme=github_light&include_all_commits=true)
 
-**About**
-
+<details>
+<summary><b>About Me</b></summary>
+<br>
 -  **Learning :** Full-Stack Development 
 -  **Languages :** PHP, JavaScript, Python, Shell
 -  **Hobbies :** Basketball :basketball:、Running :running: & Travel :airplane: 
 -  **Research :** Virtualization Technology & Routing Exploration
 -  **Contact me :** [missuo](https://t.me/missuo)
+<d/etails>
 
 **Languages and Tools**
 
