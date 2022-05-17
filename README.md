@@ -23,9 +23,10 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
   <a href="https://www.tiktok.com/@m1ssuo"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=missuo&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+## Spotify Recently Played
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=p2rzki916ovulg0dgsrw7q96f)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p2rzki916ovulg0dgsrw7q96f&cover_image=false&theme=default&bar_color_cover=false&hide_border=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 <details>
 <summary><b>Autonomous System Number</b></summary>
