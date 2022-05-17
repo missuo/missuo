@@ -1,8 +1,6 @@
-### Hi, I'm Vincent! 😃
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-![](https://profile-counter.glitch.me/missuo/count.svg)
-
-> Hi, I'm Vincent Young, [AS206729](https://bgp.he.net/AS206729) owner, a college student studying CS in Shanghai, China.
+> Hi, I'm Vincent Young, [AS206729](https://bgp.he.net/AS206729) owner, a college student studying CS in 🇨🇳 Shanghai, China.
 
 **AS206729 Prefixes v6** 
 
