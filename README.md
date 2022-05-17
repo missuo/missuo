@@ -2,9 +2,9 @@
 
 Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 
-<p align="center">
+<p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,php,docker,c,vim,nodejs,python,mysql,shell" />
   </a>
 </p>
 
