@@ -16,7 +16,10 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 -  🌍 I like traveling, running, basketball(GSW fan).
 
 ## Connect with me
-![https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://t.me/missuo)
+<p>
+  <a href="https://github.com/missuo" target="_blank"><img alt="Github" src="hhttps://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/m1ssuo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p2rzki916ovulg0dgsrw7q96f&cover_image=false&theme=default&bar_color_cover=false&hide_border=true)](https://github.com/kittinan/spotify-github-profile)
 
