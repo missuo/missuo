@@ -17,9 +17,9 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 
 ## Connect with me
 <p>
-  <a href="https://github.com/missuo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/m1ssuo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
- 
+  <a href="https://t.me/missuo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p2rzki916ovulg0dgsrw7q96f&cover_image=false&theme=default&bar_color_cover=false&hide_border=true)](https://github.com/kittinan/spotify-github-profile)
 
