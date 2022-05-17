@@ -13,6 +13,7 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 -  💼 I'm currently interning at PwC AC.
 -  👨‍🎓 I'm a student majoring in computer science.
 -  👨‍💻 I'm currently learning Flutter and Salesforce.
+-  🆕 I'm the owner of the **[AS206729](https://bgp.tools/AS206729)** autonomous system number.
 -  🌍 I like traveling, running, basketball(GSW fan).
 
 ## Connect with me
@@ -23,27 +24,7 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
   <a href="https://www.tiktok.com/@m1ssuo"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
-## Stats
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=missuo&theme=vue)
-
 ## Spotify Recently Played
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=p2rzki916ovulg0dgsrw7q96f)
-
-
-
-<details>
-<summary><b>Autonomous System Number</b></summary>
-<br>
-
-**AS206729 Prefixes v6**
-
-`2401:95c0:f001::/48` 
-
-**AS206729 Peers v6**
-|  Rank   | Description  | IPv6 | Peer|
-|  ----  | ----  | ---- | ---- |
-| 1  | FranTech Solutions | 2401:95c0:f001::1/128 | AS53667|
-
-</details>
 
 <em><b>I hope to meet a lot of interesting people here and we can learn from each other.</b></em>
