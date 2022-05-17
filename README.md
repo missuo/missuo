@@ -20,9 +20,10 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
   <a href="https://t.me/missuo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://twitter.com/m1ssuo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://instagram.com/m1ssuo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://tiktok.com/m1ssuo"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@m1ssuo"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=missuo&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p2rzki916ovulg0dgsrw7q96f&cover_image=false&theme=default&bar_color_cover=false&hide_border=true)](https://github.com/kittinan/spotify-github-profile)
 
