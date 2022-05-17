@@ -8,9 +8,14 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
   </a>
 </p>
 
--  **Learning :** Full-Stack Development 
--  **Languages :** PHP, JavaScript, Python, Shell
--  **Hobbies :** Basketball :basketball:、Running :running: & Travel :airplane: 
+## About me
+
+-  💼 I'm currently interning at PwC AC.
+-  👨‍🎓 I'm a student majoring in computer science.
+-  👨‍💻 I'm currently learning Flutter and Salesforce.
+-  🌍 I like traveling, running, basketball(GSW fan).
+
+## Connect with me
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p2rzki916ovulg0dgsrw7q96f&cover_image=false&theme=default&bar_color_cover=false&hide_border=true)](https://github.com/kittinan/spotify-github-profile)
