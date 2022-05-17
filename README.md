@@ -21,15 +21,14 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=missuo&count_private=true&show_icons=true&theme=github_light&include_all_commits=true)
 
-<details>
-<summary><b>About Me</b></summary>
-<br>
+
+**About Me**
 -  **Learning :** Full-Stack Development 
 -  **Languages :** PHP, JavaScript, Python, Shell
 -  **Hobbies :** Basketball :basketball:、Running :running: & Travel :airplane: 
 -  **Research :** Virtualization Technology & Routing Exploration
 -  **Contact me :** [missuo](https://t.me/missuo)
-</details>
+
 
 **Languages and Tools**
 
