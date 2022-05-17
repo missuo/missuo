@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Hi, I'm **Vincent Young**, Backend developer/college student from 🇨🇳 **Shanghai, China**.
+Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 
 **AS206729 Prefixes v6** 
 
