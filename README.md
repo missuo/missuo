@@ -2,23 +2,11 @@
 
 Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 
-
-<details>
-<summary><b>Autonomous System Number</b></summary>
-<br>
-
-**AS206729 Prefixes v6**
-
-`2401:95c0:f001::/48` 
-
-**AS206729 Peers v6**
-|  Rank   | Description  | IPv6 | Peer|
-|  ----  | ----  | ---- | ---- |
-| 1  | FranTech Solutions | 2401:95c0:f001::1/128 | AS53667|
-
-</details>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=missuo&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=missuo&count_private=true&show_icons=true&theme=github_light&include_all_commits=true)
 
@@ -43,7 +31,19 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p2rzki916ovulg0dgsrw7q96f&cover_image=false&theme=default&bar_color_cover=false&hide_border=true)](https://github.com/kittinan/spotify-github-profile)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missuo&&show_icons=true&hide_border=true&theme=github_light&langs_count=8&exclude_repo=JD)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=missuo&layout=compact&theme=github_light&hide_border=true)
+<details>
+<summary><b>Autonomous System Number</b></summary>
+<br>
+
+**AS206729 Prefixes v6**
+
+`2401:95c0:f001::/48` 
+
+**AS206729 Peers v6**
+|  Rank   | Description  | IPv6 | Peer|
+|  ----  | ----  | ---- | ---- |
+| 1  | FranTech Solutions | 2401:95c0:f001::1/128 | AS53667|
+
+</details>
 
 <em><b>I hope to meet a lot of interesting people here and we can learn from each other.</b></em>
