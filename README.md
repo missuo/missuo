@@ -29,7 +29,7 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 -  **Hobbies :** Basketball :basketball:、Running :running: & Travel :airplane: 
 -  **Research :** Virtualization Technology & Routing Exploration
 -  **Contact me :** [missuo](https://t.me/missuo)
-</etails>
+</details>
 
 **Languages and Tools**
 
