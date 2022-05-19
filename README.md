@@ -24,7 +24,4 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
   <a href="https://www.tiktok.com/@m1ssuo"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
-## Spotify Recently Played
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=p2rzki916ovulg0dgsrw7q96f)
-
 <em><b>I hope to meet a lot of interesting people here and we can learn from each other.</b></em>
