@@ -24,7 +24,7 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
   <a href="https://www.tiktok.com/@m1ssuo"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="mailto:me@missuo.me"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=email&logoColor=white" /></a>
   <a href="mailto:missuo@pm.me"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=email&logoColor=white" /></a>
-  <a href="mailto:i@yyt.moe"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=email&logoColor=white" /></a>
+  <a href="mailto:i@yyt.moe"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=mail&logoColor=white" /></a>
 </p>
 
 <em><b>I hope to meet a lot of interesting people here and we can learn from each other.</b></em>
