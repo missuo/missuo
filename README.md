@@ -22,12 +22,9 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
   <a href="https://twitter.com/m1ssuo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://instagram.com/m1ssuo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@m1ssuo"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="mailto:me@missuo.me"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=email&logoColor=white" /></a>
+  <a href="mailto:missuo@pm.me"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=email&logoColor=white" /></a>
+  <a href="mailto:i@yyt.moe"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=email&logoColor=white" /></a>
 </p>
-
-## Email
->  [me@missuo.me](mailto:me@missuo.me)
->  [missuo@pm.me](mailto:missuo@pm.me)
->  [i@yyt.moe](mailto:i@yyt.moe)
-
 
 <em><b>I hope to meet a lot of interesting people here and we can learn from each other.</b></em>
