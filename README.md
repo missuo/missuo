@@ -2,12 +2,6 @@
 
 Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 
-<p>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?theme=light&i=git,php,docker,c,cpp,vim,nodejs,python,mysql,bash,androidstudio,arduino,cloudflare,dart,flutter,express,gcp,github,instagram,twitter,linux,md,nginx,vscode,wordpress" />
-  </a>
-</p>
-
 ## About me
 
 -  💼 I'm currently interning at ~~PwC AC~~ Home.
