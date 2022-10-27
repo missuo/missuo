@@ -6,7 +6,7 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 
 -  💼 I'm currently interning at ~~PwC AC~~ Home.
 -  👨‍🎓 I'm a student majoring in computer science.
--  👨‍💻 I'm currently learning Flutter.
+-  👨‍💻 I'm currently learning ~~Flutter~~ Golang.
 -  🆕 I'm the owner of the **[AS206729](https://bgp.tools/AS206729)** autonomous system number.
 -  🌍 I like traveling, running, basketball(GSW fan).
 
