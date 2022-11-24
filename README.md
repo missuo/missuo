@@ -8,7 +8,7 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
 -  👨‍🎓 I'm a student majoring in computer science.
 -  👨‍💻 I'm currently learning ~~Flutter~~ Golang.
 -  🆕 I'm the owner of the **[AS206729](https://bgp.tools/AS206729)** autonomous system number.
--  🌍 I like traveling, running, basketball(GSW fan).
+-  🌍 I like traveling, ~~running~~ and basketball(GSW fan).
 
 ## Connect with me
 <p>
