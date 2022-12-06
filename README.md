@@ -18,6 +18,5 @@ Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
   <a href="https://www.tiktok.com/@m1ssuo"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://discordapp.com/users/missuo#7448"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-Email: [me@missuo.me](mailto:me@missuo.me)
 
 <em><b>"Everyone has a forest of their own, the lost ones keep straying, and the lucky ones will find their destined encounter."</b></em>
