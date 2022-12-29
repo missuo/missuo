@@ -12,3 +12,7 @@ Hi, I'm **Vincent Young**. My last name is **`Yang`**, which is pronounced simil
 If you're interested, please checkout my personal [✏️ blog](https://missuo.me/) where I share my ordinary yet joyful life. You can also find me on these social media platforms: [Twitter](https://twitter.com/m1ssuo) and [Instagram](https://www.instagram.com/m1ssuo).
 
 Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](https://t.me/missuo) or [Discord](https://discordapp.com/users/missuo#7448).
+
+![img](https://github-readme-stats.vercel.app/api/top-langs?username=missuo&show_icons=true&locale=en&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=missuo&label=Profile%20views&color=0e75b6&style=flat" alt="missuo" /> </p>
