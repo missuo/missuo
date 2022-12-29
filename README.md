@@ -1,22 +1,14 @@
-## 💡 About
+## About me
 
 Hi, I'm **Vincent Young**. My last name is `Yang`, which is pronounced similarly to the word `Young`, so I used to write it as `Young`. 
 
-Currently I am a computer science student in 🇨🇳 **Shanghai, China**.
-
-## About me
-
--  💼 I'm currently interning at ~~PwC AC~~ Home.
--  👨‍🎓 I'm a student majoring in computer science.
--  👨‍💻 I'm currently learning ~~Flutter~~ Golang.
+-  💼 Once I was an intern at `PwC AC` and now I'm preparing my graduate applications.
+-  👨‍🎓 I'm a student majoring in computer science in 🇨🇳 **Shanghai, China**.
+-  👨‍💻 I'm currently learning ~~Flutter~~ Golang and [Gin](https://github.com/gin-gonic/gin).
 -  🆕 I'm the owner of the **[AS206729](https://bgp.tools/AS206729)** autonomous system number.
 -  🌍 I like traveling, ~~running~~ and basketball(GSW fan).
 
 ## Connect with me
-<p>
-  <a href="https://t.me/missuo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://twitter.com/m1ssuo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/m1ssuo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@m1ssuo"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://discordapp.com/users/missuo#7448"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+If you're interested, please checkout my personal [✏️ blog](https://missuo.me/) where I share my ordinary yet joyful life. You can also find me on these social media platforms: [Twitter](https://twitter.com/m1ssuo) and [Instagram](https://www.instagram.com/m1ssuo).
+
+Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](https://t.me/missuo) or [Discord](https://discordapp.com/users/missuo#7448).
