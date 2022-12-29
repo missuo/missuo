@@ -1,6 +1,6 @@
 ## About me
 
-Hi, I'm **Vincent Young**. My last name is `Yang`, which is pronounced similarly to the word `Young`, so I used to write it as `Young`. 
+Hi, I'm **Vincent Young**. My last name is **`Yang`**, which is pronounced similarly to the word **`Young /jʌŋ/`**, so I used to write it as **`Young`**. 
 
 -  👨‍🎓 I'm a student majoring in computer science in 🇨🇳 **Shanghai, China**.
 -  💼 Once I was an intern at **`PwC AC`** and now I'm preparing my graduate applications.
