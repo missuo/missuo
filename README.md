@@ -1,6 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+## 💡 About
 
-Hi, I'm **Vincent Young**. College student from 🇨🇳 **Shanghai, China**.
+Hi, I'm **Vincent Young**. My last name is `Yang`, which is pronounced similarly to the word `Young`, so I used to write it as `Young`. 
+
+Currently I am a computer science student in 🇨🇳 **Shanghai, China**.
 
 ## About me
 
