@@ -1,3 +1,4 @@
+![](https://visitor-badge.glitch.me/badge?page_id=missuo.README) 
 ## About me
 
 Hi, I'm **Vincent Young**. My last name is **`Yang`**, which is pronounced similarly to the word **`Young /jʌŋ/`**, so I used to write it as **`Young`**. 
@@ -13,5 +14,4 @@ If you're interested, please checkout my personal [✏️ blog](https://missuo.m
 
 Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](https://t.me/missuo) or [Discord](https://discordapp.com/users/missuo#7448).
 
-![](https://visitor-badge.glitch.me/badge?page_id=missuo.README) 
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=missuo&show_icons=true&theme=cobalt' width='380px'>
+<img align='left' src='https://github-readme-stats.vercel.app/api?username=missuo&show_icons=true&theme=cobalt' width='380px'>
