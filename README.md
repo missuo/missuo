@@ -4,7 +4,7 @@
 Hi, I'm **Vincent Young**. My last name is **`Yang`**, which is pronounced similarly to the word **`Young /jʌŋ/`**, so I used to write it as **`Young`**. 
 
 -  👨‍🎓 I'm a student majoring in computer science in 🇨🇳 **Shanghai, China**.
--  💼 Once I was an intern at **`PwC AC`** and now I'm preparing my graduate applications.
+-  💼 Once I was an intern at **[PwC AC Shanghai](https://www.linkedin.com/company/pwc-ac-shanghai/)** and now I'm preparing my graduate applications.
 -  👨‍💻 I'm currently learning **Golang** and [**Gin**](https://github.com/gin-gonic/gin).
 -  🆕 I'm the owner of the **[AS206729](https://bgp.tools/AS206729)** autonomous system number.
 -  🌍 I like traveling, ~~running~~ and basketball(GSW fan).
