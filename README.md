@@ -3,7 +3,7 @@
 
 Hi, I'm **Vincent Young**. My last name is **`Yang`**, which is pronounced similarly to the word **`Young /jʌŋ/`**, so I used to write it as **`Young`**. 
 
--  👨‍🎓 I'm a prospective master student majoring in computer science at 🇺🇸[Pitt](https://www.pitt.edu).
+-  👨‍🎓 I'm a prospective master student majoring in computer science at 🇺🇸 [Pitt](https://www.pitt.edu).
 -  💼 Once I was an intern at **[PwC AC Shanghai](https://www.linkedin.com/company/pwc-ac-shanghai/)**.
 -  👨‍💻 I'm currently learning **Golang** and [**Gin**](https://github.com/gin-gonic/gin).
 -  🆕 I'm the owner of the **[AS206729](https://bgp.tools/AS206729)** autonomous system number.
