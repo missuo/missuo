@@ -1,4 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=missuo.README) 
 ## About me
 
 Hi, I'm **Vincent Young**. My last name is **`Yang`**, which is pronounced similarly to the word **`Young /jʌŋ/`**, so I used to write it as **`Young`**. 
