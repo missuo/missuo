@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=missuo&label=Profile%20views&color=0e75b6&style=flat" alt="missuo" /> </p>
+
 ## About me
 
 Hi, I'm **Vincent Young**. My last name is **`Yang`**, which is pronounced similarly to the word **`Young /jʌŋ/`**, so I used to write it as **`Young`**. 
