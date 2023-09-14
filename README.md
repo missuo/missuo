@@ -13,4 +13,17 @@ If you're interested, please checkout my personal [✏️ blog](https://missuo.m
 
 Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](https://t.me/missuo) or [Discord](https://discordapp.com/users/missuo#7448).
 
-![GitHub State](https://github-readme-stats.vercel.app/api?username=missuo&show_icons=true&theme=dracula)
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```txt
+Python   58 mins         █████████████▒░░░░░░░░░░░   53.72 %
+YAML     43 mins         ██████████░░░░░░░░░░░░░░░   40.05 %
+JSON     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+```
+
+<!--END_SECTION:waka-->
+
+-------
