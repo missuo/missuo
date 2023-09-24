@@ -19,11 +19,11 @@ Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](htt
 <!--START_SECTION:waka-->
 
 ```txt
-Python     56 mins         █████████████████████░░░░   83.66 %
-Text       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-YAML       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Assembly   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Python     47 mins         ████████████████████▒░░░░   81.18 %
+Text       8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+YAML       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Assembly   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
