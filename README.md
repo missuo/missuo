@@ -34,3 +34,8 @@ TypeScript       3 mins          ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 -------
+
+![GitHub State](https://github-readme-stats.vercel.app/api?username=missuo&show_icons=true&theme=dracula)
+
+-------
+
