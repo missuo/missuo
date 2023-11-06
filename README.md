@@ -15,7 +15,7 @@ Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](htt
 
 -------
 
-📊 **Weekly development breakdown**
+📊 **Monthly development breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
