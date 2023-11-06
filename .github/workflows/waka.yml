@@ -16,3 +16,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LANG_COUNT: 10
+          TIME_RANGE: last_30_days
