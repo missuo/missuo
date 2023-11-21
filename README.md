@@ -7,7 +7,7 @@ Hi, I'm **Vincent Young**. My last name is **`Yang`**, which is pronounced simil
 -  💼 Once I was an intern at **[PwC AC Shanghai](https://www.linkedin.com/company/pwc-ac-shanghai/)**.
 -  👨‍💻 I'm currently learning **Golang** and [**Gin**](https://github.com/gin-gonic/gin).
 -  🆕 I'm the owner of the **[AS206729](https://bgp.tools/AS206729)** autonomous system number.
--  🌍 I like traveling, ~~running (want to run a Marathon.)~~ and basketball (GSW fan).
+-  🌍 I like traveling (enjoy watching the sea), ~~running (want to run a Marathon)~~ and basketball (GSW fan).
 
 If you're interested, please checkout my personal [✏️ blog](https://missuo.me/) where I share my ordinary yet joyful life. You can also find me on these social media platforms: [Twitter](https://twitter.com/m1ssuo) and [Instagram](https://www.instagram.com/m1ssuo).
 
