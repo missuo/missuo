@@ -35,7 +35,7 @@ Text                  20 mins         ▒░░░░░░░░░░░░░
 
 -------
 
-![GitHub State](https://github-readme-stats.vercel.app/api?username=missuo&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-opal-alpha-76.vercel.app/api?username=missuo&show_icons=true&theme=transparent)
 
 -------
 
