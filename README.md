@@ -15,6 +15,8 @@ Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](htt
 
 -------
 
+[![wakatime](https://wakatime.com/badge/user/c13cd961-40ca-417a-afb6-1f9ea8ac295c.svg)](https://wakatime.com/@c13cd961-40ca-417a-afb6-1f9ea8ac295c)
+
 📊 **Monthly development breakdown**
 <!--START_SECTION:waka-->
 
