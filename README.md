@@ -5,7 +5,7 @@ Hi, I'm **Vincent Young**. My last name is **`Yang`**, which is pronounced simil
 
 -  👨‍🎓 I'm a master student majoring in computer science at [**University of Pittsburgh**](https://www.pitt.edu).
 -  💼 Once I was an intern at **[PwC AC Shanghai](https://www.linkedin.com/company/pwc-ac-shanghai/)**.
--  👨‍💻 I'm currently learning **Golang** and [**Gin**](https://github.com/gin-gonic/gin).
+-  👨‍💻 In the past, I have written C/C++, PHP, Java and JavaScript. Now I prefer writing **Python** and **Go**.
 -  🆕 I'm the owner of the **[AS206729](https://bgp.tools/AS206729)** autonomous system number.
 -  🌍 I like traveling (enjoy watching the sea), ~~running (want to run a Marathon)~~ and basketball (GSW fan).
 
