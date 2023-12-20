@@ -21,9 +21,9 @@ Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](htt
 <!--START_SECTION:waka-->
 
 ```txt
-Other                 96 hrs 37 mins  ██████████████████████▓░░   90.82 %
+Other                 96 hrs 37 mins  ██████████████████████▓░░   90.92 %
 Python                3 hrs 14 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Go                    2 hrs 41 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Go                    2 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 Markdown              1 hr 56 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 Groff                 33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 YAML                  31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
