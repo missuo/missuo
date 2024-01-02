@@ -21,10 +21,10 @@ Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](htt
 <!--START_SECTION:waka-->
 
 ```txt
-Other             132 hrs 24 mins ███████████████████████▓░   95.04 %
-Markdown          3 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Python            1 hr 22 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Go                1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Other             125 hrs 15 mins ███████████████████████▓░   94.79 %
+Markdown          3 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Python            1 hr 22 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Go                1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 INI               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 C                 8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Bash              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
