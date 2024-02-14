@@ -21,16 +21,16 @@ Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](htt
 <!--START_SECTION:waka-->
 
 ```txt
-Other                 218 hrs 26 mins ███████████████████████▓░   95.33 %
-Markdown              3 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-JavaScript            1 hr 30 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Go                    1 hr 22 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Swift                 1 hr 18 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-JSON                  45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other                 213 hrs 24 mins ████████████████████████░   95.38 %
+Markdown              3 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+JavaScript            1 hr 29 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Swift                 1 hr 18 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Go                    1 hr 9 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JSON                  45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Python                35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Groff                 15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-YAML                  12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Groff                 16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 DNS Zone              12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript            8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
