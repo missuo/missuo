@@ -21,16 +21,16 @@ Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](htt
 <!--START_SECTION:waka-->
 
 ```txt
-Other                 159 hrs 44 mins ███████████████████████▓░   94.23 %
-Python                3 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Markdown              2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-JavaScript            1 hr 40 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-JSON                  49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Bash                  31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-INI                   19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other                 156 hrs 24 mins ███████████████████████▓░   94.26 %
+Python                3 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Markdown              2 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+JavaScript            1 hr 40 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+JSON                  49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Bash                  31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+INI                   19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 YAML                  12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-TypeScript            8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-systemd               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript            8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+systemd               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
