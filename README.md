@@ -21,10 +21,11 @@ Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](htt
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   34 mins         ██████████░░░░░░░░░░░░░░░   40.38 %
-Go         33 mins         ██████████░░░░░░░░░░░░░░░   39.65 %
-JSON       13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-Docker     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Markdown   34 mins         ██████████░░░░░░░░░░░░░░░   40.26 %
+Go         33 mins         ██████████░░░░░░░░░░░░░░░   39.53 %
+JSON       13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
+Docker     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
