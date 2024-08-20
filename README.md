@@ -21,10 +21,10 @@ Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](htt
 <!--START_SECTION:waka-->
 
 ```txt
-Go            4 hrs 27 mins   ██████████████░░░░░░░░░░░   55.53 %
+Go            4 hrs 27 mins   ██████████████░░░░░░░░░░░   55.55 %
 TypeScript    2 hrs 21 mins   ███████▒░░░░░░░░░░░░░░░░░   29.34 %
 JavaScript    26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-Markdown      18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Markdown      18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 YAML          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 JSON          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 Git Config    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
