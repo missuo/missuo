@@ -21,12 +21,12 @@ Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](htt
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 50 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
+Markdown     1 hr 50 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
 Python       1 hr 34 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
-Go           1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-JavaScript   53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Go           1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
+JavaScript   53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
 TypeScript   46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-Bash         39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+Bash         39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
 Other        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 Makefile     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
