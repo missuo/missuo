@@ -21,15 +21,12 @@ Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](htt
 <!--START_SECTION:waka-->
 
 ```txt
-C            51 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.22 %
-Python       46 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
-Go           35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
-Markdown     21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-JSON         20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-TypeScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Makefile     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python       46 mins         ██████████░░░░░░░░░░░░░░░   40.20 %
+Go           35 mins         ███████▓░░░░░░░░░░░░░░░░░   30.08 %
+JSON         20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+TypeScript   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Markdown     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
