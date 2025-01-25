@@ -21,11 +21,12 @@ Feel free to contact me via <a href="mailto:i@yyt.moe">Email</a>, [Telegram](htt
 <!--START_SECTION:waka-->
 
 ```txt
-Go         1 hr 5 mins     █████████████████░░░░░░░░   67.73 %
-YAML       13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
-Markdown   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Ruby       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Bash       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Go           1 hr 5 mins     ██████████████░░░░░░░░░░░   56.30 %
+TypeScript   19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
+YAML         13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Markdown     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Ruby         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
