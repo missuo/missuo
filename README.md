@@ -21,16 +21,16 @@ Feel free to contact me via <a href="mailto:me@owo.nz">Email</a>, [Telegram](htt
 <!--START_SECTION:waka-->
 
 ```txt
-Go                    10 hrs 34 mins  ███████░░░░░░░░░░░░░░░░░░   27.54 %
-TypeScript            9 hrs 55 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
-Markdown              3 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Bash                  3 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-YAML                  2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Swift                 2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Other                 2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Logos                 1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Objective-C           37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Docker                34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Go                    10 hrs 2 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
+TypeScript            9 hrs 55 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+Markdown              3 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Bash                  3 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Swift                 2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+YAML                  2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Other                 2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Logos                 1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Objective-C           37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Docker                34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
