@@ -20,16 +20,16 @@ Feel free to contact me via <a href="mailto:me@owo.nz">Email</a>, [Telegram](htt
 <!--START_SECTION:waka-->
 
 ```txt
-Swift               1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-Other               1 hr 28 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-Markdown            1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-TypeScript          1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Bash                1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-Objective-C         1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-Kotlin              41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-CSV                 22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-JavaScript          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Gradle Kotlin DSL   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Swift               1 hr 31 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
+Other               1 hr 27 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
+Markdown            1 hr 25 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+TypeScript          1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+Objective-C         1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+Kotlin              41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Bash                25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+CSV                 22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+JavaScript          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Gradle Kotlin DSL   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
