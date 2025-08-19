@@ -20,11 +20,11 @@ Feel free to contact me via <a href="mailto:me@owo.nz">Email</a>, [Telegram](htt
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     3 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   35.57 %
-JSON         2 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
-Python       1 hr 12 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Markdown     3 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   35.51 %
+JSON         2 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
+Python       1 hr 12 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
 Bash         50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-CSV          30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+CSV          30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 TypeScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 TOML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
