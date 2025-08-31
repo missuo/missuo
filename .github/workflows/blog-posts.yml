@@ -1,0 +1,46 @@
+name: Update Blog Posts
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs daily at 1 AM EDT
+    - cron: "0 22 * * *"
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/scripts/update_blog_posts.py'
+      - '.github/workflows/blog-posts.yml'
+
+jobs:
+  update-blog-posts:
+    name: Update Recent Blog Posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Update blog posts in README
+        run: python .github/scripts/update_blog_posts.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update recent blog posts - [Skip GitHub Action]"
+            git push
+          fi
