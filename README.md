@@ -11,13 +11,6 @@ Hi, I'm **Vincent Young**. My last name is **`Yang`**, which is pronounced simil
 If you're interested, please checkout my personal [✏️ blog](https://missuo.me/) where I share my ordinary yet joyful life. You can also find me on these social media platforms: [Twitter](https://twitter.com/m1ssuo) and [Instagram](https://www.instagram.com/missuo.me).
 
 Feel free to contact me via <a href="mailto:me@owo.nz">Email</a>, [Telegram](https://t.me/missuo) or [Discord](https://discordapp.com/users/missuo#7448).
-
-📝 **Recent Blog Posts**
-- **August 02, 2025**: [The worst Apple Store in the world - Apple Taipei 101](https://missuo.me/posts/taipei-101-apple-store/)
-- **July 20, 2025**: [Traveling from Mainland China to Taiwan](https://missuo.me/posts/china-to-taiwan/)
-- **June 12, 2025**: [WeChat multi-opening on iOS](https://missuo.me/posts/wechat-ios-multi-open/)
-- **May 10, 2025**: [I applied for Real ID](https://missuo.me/posts/real-id/)
-- **May 05, 2025**: [Know ShadowTLS too late](https://missuo.me/posts/shadowtls/)
 -------
 
 [![wakatime](https://wakatime.com/badge/user/c13cd961-40ca-417a-afb6-1f9ea8ac295c.svg)](https://wakatime.com/@missuo)
@@ -39,6 +32,9 @@ Git          2 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+-------
+
+![GitHub Stats](https://github-readme-stats-opal-alpha-76.vercel.app/api?username=missuo&show_icons=true&theme=transparent)
 
 📝 **Recent Blog Posts**
 - **August 02, 2025**: [The worst Apple Store in the world - Apple Taipei 101](https://missuo.me/posts/taipei-101-apple-store/)
@@ -46,10 +42,6 @@ Git          2 mins          ░░░░░░░░░░░░░░░░░
 - **June 12, 2025**: [WeChat multi-opening on iOS](https://missuo.me/posts/wechat-ios-multi-open/)
 - **May 10, 2025**: [I applied for Real ID](https://missuo.me/posts/real-id/)
 - **May 05, 2025**: [Know ShadowTLS too late](https://missuo.me/posts/shadowtls/)
-
--------
-
-![GitHub Stats](https://github-readme-stats-opal-alpha-76.vercel.app/api?username=missuo&show_icons=true&theme=transparent)
 
 -------
 
