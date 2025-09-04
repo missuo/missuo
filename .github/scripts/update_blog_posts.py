@@ -29,7 +29,7 @@ def fetch_recent_posts():
         for entry in feed.entries[:MAX_POSTS]:
             title = entry.title
             date = format_date(entry.published)
-            posts.append(f"- **{date}**: [{title}]({entry.link})")
+            posts.append(f"- [{title}]({entry.link}) - {date}")
         
         return posts
     except Exception as e:
@@ -52,7 +52,7 @@ def update_readme():
         blog_section = "📝 **Recent Blog Posts**\n" + "\n".join(posts) + "\n"
         
         # Remove existing blog posts section if it exists
-        existing_pattern = r'📝 \*\*Recent Blog Posts\*\*\n(?:- \*\*.*?\*\*: \[.*?\]\(.*?\)\n)*\n?'
+        existing_pattern = r'📝 \*\*Recent Blog Posts\*\*\n(?:- \[.*?\]\(.*?\) - .*?\n)*\n?'
         content = re.sub(existing_pattern, '', content)
         
         # Find where to insert the blog posts (after the social media line and before the first separator)
