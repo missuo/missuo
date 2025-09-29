@@ -13,11 +13,11 @@ If you're interested, please checkout my personal [✏️ blog](https://missuo.m
 Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/missuo) or [Discord](https://discordapp.com/users/missuo#7448).
 
 📝 **Recent Blog Posts**
+- [Two different IDPs](https://missuo.me/posts/idp/) - September 29, 2025
 - [The worst Apple Store in the world - Apple Taipei 101](https://missuo.me/posts/taipei-101-apple-store/) - August 02, 2025
 - [Traveling from Mainland China to Taiwan](https://missuo.me/posts/china-to-taiwan/) - July 20, 2025
 - [WeChat multi-opening on iOS](https://missuo.me/posts/wechat-ios-multi-open/) - June 12, 2025
 - [I applied for Real ID](https://missuo.me/posts/real-id/) - May 10, 2025
-- [Know ShadowTLS too late](https://missuo.me/posts/shadowtls/) - May 05, 2025
 
 -------
 
