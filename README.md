@@ -27,14 +27,14 @@ Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/m
 <!--START_SECTION:waka-->
 
 ```txt
-Swift        7 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.75 %
-Go           7 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 %
-TypeScript   2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Python       2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Swift        7 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.78 %
+Go           7 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   30.60 %
+TypeScript   2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+Python       1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
 JSON         1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 CSV          58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 Other        48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Git Config   44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Git Config   44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 Markdown     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 YAML         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
