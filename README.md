@@ -27,13 +27,13 @@ Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/m
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   40 mins         █████████████████████▓░░░   86.99 %
-JSON         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-CSV          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Go           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   40 mins         ██████████████░░░░░░░░░░░   55.70 %
+Markdown     25 mins         █████████░░░░░░░░░░░░░░░░   35.99 %
+JSON         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+CSV          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
