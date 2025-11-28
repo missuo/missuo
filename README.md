@@ -27,10 +27,10 @@ Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/m
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 28 mins    ██████████▒░░░░░░░░░░░░░░   41.13 %
-Bash         47 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
-Markdown     43 mins         █████░░░░░░░░░░░░░░░░░░░░   20.30 %
-Git Config   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Go           1 hr 27 mins    ██████████▒░░░░░░░░░░░░░░   41.05 %
+Bash         47 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
+Markdown     43 mins         █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+Git Config   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 Docker       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 TypeScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
