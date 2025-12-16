@@ -27,14 +27,7 @@ Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/m
 <!--START_SECTION:waka-->
 
 ```txt
-Go           14 mins         ███████████▓░░░░░░░░░░░░░   46.36 %
-Markdown     10 mins         ████████▒░░░░░░░░░░░░░░░░   32.81 %
-JSON         4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Bash         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
