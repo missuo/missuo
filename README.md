@@ -27,7 +27,7 @@ Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/m
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
