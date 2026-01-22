@@ -27,7 +27,10 @@ Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/m
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Objective-C   19 mins         █████████████████████░░░░   84.24 %
+Markdown      3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+XML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
