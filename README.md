@@ -27,10 +27,16 @@ Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/m
 <!--START_SECTION:waka-->
 
 ```txt
-Objective-C   19 mins         █████████████████████░░░░   84.24 %
-Markdown      3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-XML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Other         55 mins         █████████████▓░░░░░░░░░░░   54.97 %
+Objective-C   19 mins         █████░░░░░░░░░░░░░░░░░░░░   19.71 %
+Go            12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+YAML          8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Markdown      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Docker        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+XML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
