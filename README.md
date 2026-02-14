@@ -13,11 +13,11 @@ If you're interested, please checkout my personal [✏️ blog](https://missuo.m
 Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/missuo) or [Discord](https://discordapp.com/users/missuo#7448).
 
 📝 **Recent Blog Posts**
+- [JR East Japan Billing Issue](https://missuo.me/posts/jr-east-bug/) - February 14, 2026
 - [SAKURA VPS International QoS Issues](https://missuo.me/posts/sakura-vps/) - January 05, 2026
 - [Block Inbound Traffic from Mainland China](https://missuo.me/posts/block-china-inbound/) - November 19, 2025
 - [Two different IDPs](https://missuo.me/posts/idp/) - September 29, 2025
 - [The worst Apple Store in the world - Apple Taipei 101](https://missuo.me/posts/taipei-101-apple-store/) - August 02, 2025
-- [Traveling from Mainland China to Taiwan](https://missuo.me/posts/china-to-taiwan/) - July 20, 2025
 
 -------
 
