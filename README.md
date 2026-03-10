@@ -27,10 +27,7 @@ Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/m
 <!--START_SECTION:waka-->
 
 ```txt
-CSV          5 mins                ██████████████████████░░░   87.77 %
-JavaScript   0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Other        0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-JSON         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+CSV   5 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
