@@ -10,6 +10,8 @@ Hi, I'm **Vincent Young**. My last name is **`Yang`**, which is pronounced simil
 
 If you're interested, please checkout my personal [✏️ blog](https://missuo.me/) where I share my ordinary yet joyful life. You can also find me on these social media platforms: [Twitter](https://twitter.com/m1ssuo) and [Instagram](https://www.instagram.com/missuo.me).
 
+You can also install my skills with `npx skills add missuo/missuo`. The `blog` skill lets agents read posts from [missuo.me](https://missuo.me/), including comments.
+
 Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/missuo) or [Discord](https://discordapp.com/users/missuo#7448).
 
 📝 **Recent Blog Posts**
@@ -36,4 +38,3 @@ No activity tracked
 
 ![GitHub Stats](https://github-readme-stats-opal-alpha-76.vercel.app/api?username=missuo&show_icons=true&theme=transparent)
 -------
-
