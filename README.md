@@ -16,8 +16,7 @@ You can also install my skills with `npx skills add missuo/missuo`. The `blog` s
 Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/missuo) or [Discord](https://discordapp.com/users/missuo#7448).
 
 
-[![Tokens Stats](https://tokens.ci/api/embed/missuo/svg?theme=light&template=blueprint&color=blue&graph=1&tokens=compact&cost=compact)](https://tokens.ci/u/missuo)
-
+[![Tokens Stats](https://tokens.ci/api/embed/missuo/svg?theme=light&template=terminal&tokens=compact&cost=full)](https://tokens.ci/u/missuo)
 
 
 
