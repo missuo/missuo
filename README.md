@@ -18,6 +18,8 @@ Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/m
 
 [![Tokens Stats](https://tokens.ci/api/embed/missuo/svg?theme=light&template=terminal&tokens=compact&cost=full)](https://tokens.ci/u/missuo)
 
+[![Tokens Stats](https://tokens.ci/api/embed/missuo/svg?theme=light&template=detailed&color=blue&tokens=compact&cost=compact)](https://tokens.ci/u/missuo)
+
 
 
 
