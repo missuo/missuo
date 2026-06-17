@@ -127,9 +127,11 @@ Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/m
 
 
 
+
+
 📝 **Recent Blog Posts**
+- [Give Your Camera Real GPS: A No-Internet Hardware Fix with furble](https://missuo.me/posts/camera-gps-furble/) - Wed, 17 Jun 2026 14:30:00 GMT
+- [The Right Way to Use WebArena Indigo](https://missuo.me/posts/webarena-indigo-ipv6-gre/) - Wed, 17 Jun 2026 12:00:00 GMT
 - [Tinkering with Home Network: N100 + PVE + iKuai + sing-box](https://missuo.me/posts/home-network-n100-sing-box/) - Tue, 21 Apr 2026 03:00:19 GMT
 - [I Got My Lost Phone Back in Japan](https://missuo.me/posts/lost-my-phone-in-japan/) - Sun, 05 Apr 2026 03:37:18 GMT
 - [Is OpenClaw Better for Developers or Non-Technical Users?](https://missuo.me/posts/openclaw-for-developer/) - Fri, 13 Mar 2026 10:44:53 GMT
-- [Building a Cloudflare-Native Comment System for Hugo](https://missuo.me/posts/comment-system/) - Sun, 01 Mar 2026 20:22:30 GMT
-- [JR East Japan Billing Issue](https://missuo.me/posts/jr-east-bug/) - Sat, 14 Feb 2026 06:46:19 GMT
