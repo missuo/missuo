@@ -247,6 +247,8 @@ Feel free to contact me via [Email](mailto:me@owo.nz), [Telegram](https://t.me/m
 
 
 
+
+
 📝 **Recent Blog Posts**
 - [From iKuai to RouterOS, and Back to Surge VM Gateway](https://missuo.me/posts/ikuai-to-routeros-back-to-surge/) - Mon, 10 Aug 2026 14:00:00 GMT
 - [Your Flight Almost Never Flies the Great Circle](https://missuo.me/posts/why-planes-dont-fly-great-circles/) - Tue, 07 Jul 2026 17:00:00 GMT
